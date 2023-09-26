@@ -18,6 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a master's student in the Department of Mechanical Engineering, at Stanford University. My research goal is to investigate the underlying dynamics of bipedal robots and design bio-inspired mechanisms that reduce energy consumption and are advantageous to reduced-order controllers. I would also combine model-based and model-free controllers so that the robot can perform high agility in a complex environment.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
