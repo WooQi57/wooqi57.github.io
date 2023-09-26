@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wooqi57.github.io/al-folio/sitemap.xml
+Sitemap: https://wooqi57.github.io/sitemap.xml
