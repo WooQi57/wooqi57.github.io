@@ -2,7 +2,7 @@
 layout: post
 title:  "Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles"
 date:   2022-05-30 00:00:00 +00:00
-image: /images/sinewave.jpg
+image: /images/sinewave.png
 categories: research
 authors: "<strong>Qi Wu</strong>*, Chong Zhang*, Yanchen Liu"
 venue: "IEEE International Conference on Mechatronics and Automation (ICMA) (Oral)"
