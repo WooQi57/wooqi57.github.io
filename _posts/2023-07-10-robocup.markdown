@@ -5,6 +5,7 @@ date:   2023-07-10 00:00:00 +00:00
 image: /images/mos_game.jpg
 categories: project
 author: "Team THMOS"
+video: https://youtu.be/vNEzFgHl8Ys
 # authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
 # venue: "European Conference on Computer Vision (Oral)"
 # arxiv: https://arxiv.org/abs/2207.10606
