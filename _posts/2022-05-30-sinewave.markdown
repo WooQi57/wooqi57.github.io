@@ -8,7 +8,6 @@ authors: "<strong>Qi Wu</strong>*, Chong Zhang*, Yanchen Liu"
 venue: "IEEE International Conference on Mechatronics and Automation (ICMA) (Oral)"
 arxiv: https://arxiv.org/abs/2204.04157
 code: https://github.com/WooQi57/sin-cassie-rl
-website: https://www.u-bordeaux.fr/en/about-us/our-strategy/institutional-projects/artificial-intelligence/robocup-2023
 ---
 
 Applied deep reinforcement learning on the walking of the robot Cassie with simple sine wave references. 
