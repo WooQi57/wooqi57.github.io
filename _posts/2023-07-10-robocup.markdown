@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RoboCup 2023"
-date:   2023-06-30 00:00:00 +00:00
+date:   2023-07-10 00:00:00 +00:00
 image: /images/mos_game.jpg
 categories: project
 author: "Team THMOS"
