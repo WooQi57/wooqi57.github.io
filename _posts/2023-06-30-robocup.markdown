@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "RoboCup 2023"
+date:   2023-06-30 00:00:00 +00:00
+image: /images/mos_game.jpg
+categories: project
+author: "Team THMOS"
+# authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+# venue: "European Conference on Computer Vision (Oral)"
+# arxiv: https://arxiv.org/abs/2207.10606
+# code: https://github.com/leonidk/fuzzy-metaballs
+website: https://www.u-bordeaux.fr/en/about-us/our-strategy/institutional-projects/artificial-intelligence/robocup-2023
+# youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
+---
+
+We built a kid-size humanoid soccer robot and won the Fourth place in RoboCup in France. I was fortunate to be the team leader.
