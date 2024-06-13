@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space Station Robotic Arm Model for Science Exhibition "
-date:   2022-10-30 22:20:59 +00:00
+date:   2022-10-10 22:20:59 +00:00
 image: /images/space_station.png
 categories: project
 authors: "<strong>Qi Wu</strong>, Ziyang Xu, Zihao Ning, Fankun Meng, Shengtai Yao, Jianxin Yang, Shangfeng Pan, Ying Liu"

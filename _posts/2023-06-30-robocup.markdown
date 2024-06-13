@@ -13,4 +13,4 @@ website: https://www.u-bordeaux.fr/en/about-us/our-strategy/institutional-projec
 # youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
 ---
 
-We built a kid-size humanoid soccer robot and won the Fourth place in RoboCup in France. I was fortunate to be the team leader.
+We built a kid-size humanoid soccer robot and won the **Fourth** place in RoboCup in France. I was fortunate to be the team leader.
