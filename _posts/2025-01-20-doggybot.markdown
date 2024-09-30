@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models"
-date:   2024-09-20 00:00:00 +00:00
+date:   2025-01-20 00:00:00 +00:00
+# date:   2024-09-20 00:00:00 +00:00
 image: /images/bed.gif
 categories: research
 authors: "<strong>Qi Wu</strong>, Zipeng Fu, Xuxin Cheng, Xiaolong Wang, Chelsea Finn"
-# venue: "Conference on Robot Learning"
+venue: "Submitted to ICRA 2025"
 # arxiv: https://arxiv.org/pdf/2406.10454
 code: https://github.com/WooQi57/Helpful-Doggybot
 website: https://helpful-doggybot.github.io/
