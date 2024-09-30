@@ -2,11 +2,11 @@
 layout: post
 title:  "Space Station Robotic Arm Model for Science Exhibition "
 date:   2022-10-10 22:20:59 +00:00
-image: /images/space_station.jpg
+image: /images/spacestation.gif
 categories: project
 authors: "<strong>Qi Wu</strong>, Ziyang Xu, Zihao Ning, Fankun Meng, Shengtai Yao, Jianxin Yang, Shangfeng Pan, Ying Liu"
 video: https://youtu.be/eLJAJKjCcS0
 patent: https://patents.google.com/patent/CN115625693A/en?oq=CN115625693A
 ---
 
-We built a model displaying how robot arms on space stations can transport among adaptors on the station surface. Our work was later exhibited at China Science and Technology Museum and our exhibition was covered by major national press. 
+We built a model displaying how robot arms on space stations can transport among adaptors on the station surface. Our work was later **exhibited at China Science and Technology Museum** and our exhibition was covered by major national press. 
