@@ -2,7 +2,7 @@
 layout: post
 title:  "HumanPlus: Humanoid Shadowing and Imitation from Humans"
 date:   2024-06-10 00:00:00 +00:00
-image: /images/shoe.jpg
+image: /images/shoe-fast.gif
 categories: research
 authors: "Zipeng Fu*, Qingqing Zhao*, <strong>Qi Wu</strong>*, Gordon Wetzstein, Chelsea Finn"
 venue: "Conference on Robot Learning, 2024"
