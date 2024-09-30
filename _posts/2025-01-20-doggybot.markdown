@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models"
-date:   2025-01-20 00:00:00 +00:00
+date:   2024-01-20 00:00:00 +00:00
 # date:   2024-09-20 00:00:00 +00:00
 image: /images/bed.gif
 categories: research
